@@ -8,5 +8,5 @@ export default defineConfig({
     exclude: ['lucide-react'],
     
   },
- base: "/https://Saribekyan07.github.io/ugsochiklimat/"
+
 });
