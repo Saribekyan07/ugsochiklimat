@@ -6,5 +6,7 @@ export default defineConfig({
   plugins: [react()],
   optimizeDeps: {
     exclude: ['lucide-react'],
+    
   },
+ base: "/https://Saribekyan07.github.io/ugsochiklimat/"
 });
